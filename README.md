@@ -1,1 +1,2 @@
-Just trying to brush up my skills
+A collection of personal projects built to explore web development concepts, user interface design, and front-end technologies.
+
